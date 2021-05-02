@@ -47,5 +47,3 @@ const headerAppender = (selector) => { //e.g. p, #para1 and .center
 }
 
 export { Header, headerAppender }
-
-
